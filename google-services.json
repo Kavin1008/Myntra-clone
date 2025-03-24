@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "84500523425",
+    "project_id": "myntra-clone-777df",
+    "storage_bucket": "myntra-clone-777df.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84500523425:android:f01712fa8caf06357e43e0",
+        "android_client_info": {
+          "package_name": "com.galaxies.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGI167Z6H51mMJyjqmdVCImAGrGKVdUhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
