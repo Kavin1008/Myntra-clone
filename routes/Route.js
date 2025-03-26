@@ -14,7 +14,9 @@ const Route = () => {
             headerShown:false,
         }}>
             <Tab.Screen name='Home' component={HomeScreen} />
-            <Tab.Screen name='Profile' component={HomeScreen} />
+            <Tab.Screen name='fwd' component={HomeScreen} />
+            <Tab.Screen name='Luxury' component={HomeScreen} />
+            <Tab.Screen name='Bag' component={HomeScreen} />
         </Tab.Navigator>
 
     </NavigationContainer>
